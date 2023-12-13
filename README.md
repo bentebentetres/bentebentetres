@@ -72,7 +72,7 @@ I'm more than just a person; I'm on a journey to explore the vast world of infor
   <p>This is another project description.</p>
   <p style="font-size: 18px; font-weight: bold;">Technologies:</p>
   <p>List the technologies used.</p>
-  <a href="https://bentebentetres.github.io/Paca Bootstrap" style="text-decoration: none;">
+  <a href="https://bentebentetres.github.io/Paca_Bootsrap" style="text-decoration: none;">
     <button type="button" style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
       Explore Project
     </button>
