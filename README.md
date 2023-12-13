@@ -7,18 +7,18 @@
 ---
 
 ### ABOUT ME
-I'm more than just a person; I'm on a journey to explore the vast world of information technology! 💻✨
+I'm just a guy who's trying to learn how to code :')💻✨
 
 #### Details
-- 🎓 Currently a 2nd-year IT college student
-- 🌍 Passionate about exploring the realms of technology
-- 🧠 Always eager to learn and grow
+-  Currently a 2nd-year IT college student
+-  SKILLS: Pretty much NOTHING other than basics. Still in process learning skills.
+-  Always eager to learn and grow.
 
 #### Skills
-- 🤷‍♂️ Currently mastering the art of... well, everything!
-- 💡 An enthusiast with a hunger for knowledge
+- 🤷‍♂️ Currently studying WEB TECHNOLOGIES.
+- 💡 I have basic knowledge of JS :)). I know how to make a button.
 
-#### Connect with Me
+#### LINKS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/watcher.shane01)
 
 ---
@@ -83,6 +83,6 @@ I'm more than just a person; I'm on a journey to explore the vast world of infor
 
 ---
 
-Let's connect and share our IT adventures! 🚀
+THAT'S PRETTY MUCH IT, Will make this better as my Journey continues.
 
 </div>
