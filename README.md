@@ -27,10 +27,11 @@ I'm more than just a person; I'm on a journey to explore the vast world of infor
 
 <div align="left">
 
-#### Project 1: [Project Name 1](#)
+#### Project 1: [Project Name 1](https://bentebentetres.github.io/Act3)
 - Description: This is a brief description of your project.
 - Technologies: List the technologies used.
-- [Check it out!](#) <button type="button">Go to Project</button>
+- [Check it out!](https://bentebentetres.github.io/Act3) <button type="button">Go to Project</button>
+
 
 #### Project 2: [Project Name 2](#)
 - Description: This is another project description.
