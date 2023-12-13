@@ -27,7 +27,7 @@ I'm more than just a person; I'm on a journey to explore the vast world of infor
 
 <div align="left">
 
-#### Project 1: Act3 Website
+#### Project Name: Act3 Website
 <div style="border: 20px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <p style="font-size: 18px; font-weight: bold;">Description:</p>
   <p>This is a brief description of your project.</p>
@@ -40,13 +40,39 @@ I'm more than just a person; I'm on a journey to explore the vast world of infor
   </a>
 </div>
 
-#### Project 2: [Project Name 2](#)
+#### Project Name: Basic JQuery Activity
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <p style="font-size: 18px; font-weight: bold;">Description:</p>
   <p>This is another project description.</p>
   <p style="font-size: 18px; font-weight: bold;">Technologies:</p>
   <p>List the technologies used.</p>
-  <a href="#" style="text-decoration: none;">
+  <a href="https://bentebentetres.github.io/PacaMeroshane-Jquery" style="text-decoration: none;">
+    <button type="button" style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Explore Project
+    </button>
+  </a>
+</div>
+
+#### Project Name: BootStrap - JavaScript Activity 1
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <p style="font-size: 18px; font-weight: bold;">Description:</p>
+  <p>This is another project description.</p>
+  <p style="font-size: 18px; font-weight: bold;">Technologies:</p>
+  <p>List the technologies used.</p>
+  <a href="https://bentebentetres.github.io/ProgressBarHtmlCssJs" style="text-decoration: none;">
+    <button type="button" style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Explore Project
+    </button>
+  </a>
+</div>
+
+#### Project Name: BootStrap - JavaScript Activity 2
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <p style="font-size: 18px; font-weight: bold;">Description:</p>
+  <p>This is another project description.</p>
+  <p style="font-size: 18px; font-weight: bold;">Technologies:</p>
+  <p>List the technologies used.</p>
+  <a href="https://bentebentetres.github.io/Paca Bootstrap" style="text-decoration: none;">
     <button type="button" style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
       Explore Project
     </button>
