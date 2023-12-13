@@ -27,16 +27,31 @@ I'm more than just a person; I'm on a journey to explore the vast world of infor
 
 <div align="left">
 
-#### Project 1: [Project Name 1](https://bentebentetres.github.io/Act3)
-- Description: This is a brief description of your project.
-- Technologies: List the technologies used.
-- [Check it out!](https://bentebentetres.github.io/Act3) <button type="button">Go to Project</button>
-
+#### Project 1: Act3 Website
+<div style="border: 20px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <p style="font-size: 18px; font-weight: bold;">Description:</p>
+  <p>This is a brief description of your project.</p>
+  <p style="font-size: 18px; font-weight: bold;">Technologies:</p>
+  <p>List the technologies used.</p>
+  <a href="https://bentebentetres.github.io/Act3" style="text-decoration: none;">
+    <button type="button" style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Explore Project
+    </button>
+  </a>
+</div>
 
 #### Project 2: [Project Name 2](#)
-- Description: This is another project description.
-- Technologies: List the technologies used.
-- [Check it out!](#) <button type="button">Go to Project</button>
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <p style="font-size: 18px; font-weight: bold;">Description:</p>
+  <p>This is another project description.</p>
+  <p style="font-size: 18px; font-weight: bold;">Technologies:</p>
+  <p>List the technologies used.</p>
+  <a href="#" style="text-decoration: none;">
+    <button type="button" style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Explore Project
+    </button>
+  </a>
+</div>
 
 </div>
 
