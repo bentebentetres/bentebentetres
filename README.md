@@ -10,7 +10,7 @@
 I'm just a guy who's trying to learn how to code :')💻✨
 
 #### Details
--  Currently a 2nd-year IT college student
+-  Currently a 3rd-year IT college student
 -  SKILLS: Pretty much NOTHING other than basics. Still in the process of learning skills.
 -  Always eager to learn and grow.
 
