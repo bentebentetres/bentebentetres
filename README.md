@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there! 👋 I'm Meroshane, a 2nd-year IT college student 🎓
+### Hi there! 👋 I'm Meroshane, a 3rd-year IT college student 🎓
 
 <img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.6435-9/118007885_946080832571101_1776406030291214443_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGdLqE4DMzEQEU9MxFTZRpVe1nnvLAbPCZ7Wee8sBs8Jon80XWobkjzuUNTrEZcTDL7oN82oixC8JoGSkFwMQvo&_nc_ohc=0kkCRN4j0voAX9O2PM7&_nc_ht=scontent.fmnl17-2.fna&oh=00_AfAPS6mp-gju3wsyCGwoaogtAwWcTS8j19g0E1Mlx6lHXQ&oe=659F2FC7" alt="I'm a 2nd-year college student" width="250">
 
